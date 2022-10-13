@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassVsStruct", "ClassVsStr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatFromLastWeek", "CatFromLastWeek\CatFromLastWeek.csproj", "{6E3465BF-BA4D-4D32-8E53-FC25EF9D8F24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUnits", "GameUnits\GameUnits.csproj", "{F59A038D-4DA0-47CC-975D-1C37ABB1FCAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{6E3465BF-BA4D-4D32-8E53-FC25EF9D8F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E3465BF-BA4D-4D32-8E53-FC25EF9D8F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E3465BF-BA4D-4D32-8E53-FC25EF9D8F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59A038D-4DA0-47CC-975D-1C37ABB1FCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59A038D-4DA0-47CC-975D-1C37ABB1FCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59A038D-4DA0-47CC-975D-1C37ABB1FCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59A038D-4DA0-47CC-975D-1C37ABB1FCAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
