@@ -27,6 +27,11 @@ namespace GameUnits
 
         }
 
+        public override string ToString()
+        {
+            return base.ToString() + $"Attack Power is: {AttackPower} | XP is: {XP}";
+        }
+
 
     }
 }

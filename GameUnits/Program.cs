@@ -19,6 +19,11 @@ namespace GameUnits
             Console.WriteLine(s1.Health);
             Console.WriteLine(s1.Value);
             s1.Move();
+
+            Console.WriteLine(s1.ToString());
+            Console.WriteLine(m1.ToString());
+
+
         }
     }
 }
